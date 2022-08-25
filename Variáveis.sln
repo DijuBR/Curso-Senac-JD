@@ -41,7 +41,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JokenPô", "JokenPô\JokenP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jogo dos Dados 22-08", "Jogo dos Dados 22-08\Jogo dos Dados 22-08.csproj", "{7F240933-3E3B-4FA0-A108-08D0104412BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabuleiro", "Tabuleiro\Tabuleiro.csproj", "{604715FB-C33F-419F-B304-300CE1D82D92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tabuleiro 23-08", "Tabuleiro\Tabuleiro 23-08.csproj", "{604715FB-C33F-419F-B304-300CE1D82D92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
