@@ -43,6 +43,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jogo dos Dados 22-08", "Jog
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tabuleiro 23-08", "Tabuleiro\Tabuleiro 23-08.csproj", "{604715FB-C33F-419F-B304-300CE1D82D92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SNAKE GAME", "teste33333\SNAKE GAME.csproj", "{0DA71E9B-6745-46A8-B709-0BB8707CC926}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{604715FB-C33F-419F-B304-300CE1D82D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{604715FB-C33F-419F-B304-300CE1D82D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{604715FB-C33F-419F-B304-300CE1D82D92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DA71E9B-6745-46A8-B709-0BB8707CC926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA71E9B-6745-46A8-B709-0BB8707CC926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA71E9B-6745-46A8-B709-0BB8707CC926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA71E9B-6745-46A8-B709-0BB8707CC926}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
